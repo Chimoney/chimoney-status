@@ -1,26 +1,35 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: chimoney # Your GitHub organization or username, where this repository lives
+repo: chimoney-status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Chimoney API V2
+    url: https://api.chimoney.io
+  - name: Chimoney Website
+    url: https://chimoney.io
+  - name: Chimoney Web Platform
+    url: https://dash.chimoney.io
+  - name: Chimoney API V1
+    url: https://live.chimoney.io
+  - name: Unispend
+    url: https://unispend.com
+  - name: Scrim by Chimoney Website
+    url: https://scrim.ai
+  - name: Scrim by Chimoney API
+    url: https://api.scrim.ai
 
+assignees: # Users to assign downtime issues (optional)
+  - uchibeke
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # cname: demo.upptime.js.org
+  baseUrl: /chimoney-status
+  logoUrl: https://chimoney.io/assets/icons/chimoney-purple-logo.svg
+  name: Chimoney Status
+  theme: dark
+  introTitle: "**Chimoney** enables efficient cross-border payouts and disbursements for emerging platforms, financial institutions, and creator communities through it’s APIs and web Platform."
+  introMessage: This is the Chimoney status page which uses **real-time** data from our [GitHub repository](https://github.com/Chimoney/chimoney-status).
   navbar:
     - title: Status
       href: /
