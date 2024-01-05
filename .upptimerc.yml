@@ -29,7 +29,7 @@ status-website:
   baseUrl: /chimoney-status
   logoUrl: https://chimoney.io/assets/icons/chimoney-logo.svg
   name: Chimoney Status
-  theme: dark
+  theme: light
   introTitle: "**Chimoney** enables efficient cross-border payouts and disbursements for emerging platforms, financial institutions, and creator communities through it’s APIs and web Platform."
   introMessage: This is the Chimoney status page which uses **real-time** data from our [GitHub repository](https://github.com/Chimoney/chimoney-status).
   navbar:
