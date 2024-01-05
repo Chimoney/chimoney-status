@@ -34,7 +34,7 @@ status-website:
   introMessage: This is the Chimoney status page which uses **real-time** data from our [GitHub repository](https://github.com/Chimoney/chimoney-status).
   navbar:
     - title: Status
-      href: /
+      href: /chimoney-status
     - title: chimoney.io
       href: https://chimoney.io/
     - title: API
