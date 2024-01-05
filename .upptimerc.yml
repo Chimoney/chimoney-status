@@ -20,12 +20,14 @@ sites:
 
 assignees: # Users to assign downtime issues (optional)
   - uchibeke
+  - Regedit-msc
+  - adebayoileri
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /chimoney-status
-  logoUrl: https://chimoney.io/assets/icons/chimoney-purple-logo.svg
+  logoUrl: https://chimoney.io/assets/icons/chimoney-logo.svg
   name: Chimoney Status
   theme: dark
   introTitle: "**Chimoney** enables efficient cross-border payouts and disbursements for emerging platforms, financial institutions, and creator communities through it’s APIs and web Platform."
@@ -33,6 +35,10 @@ status-website:
   navbar:
     - title: Status
       href: /
+    - title: chimoney.io
+      href: https://chimoney.io/
+    - title: API
+      href: https://chimoney.readme.io/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
