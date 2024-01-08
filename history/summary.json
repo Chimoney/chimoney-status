@@ -22,18 +22,20 @@
     "url": "https://chimoney.io",
     "icon": "https://icons.duckduckgo.com/ip3/chimoney.io.ico",
     "slug": "chimoney-website",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 638,
-    "timeDay": 513,
-    "timeWeek": 638,
-    "timeMonth": 638,
-    "timeYear": 638,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 4038,
+    "timeDay": 14175,
+    "timeWeek": 4038,
+    "timeMonth": 4038,
+    "timeYear": 4038,
+    "dailyMinutesDown": {
+      "2024-01-08": 1
+    }
   },
   {
     "name": "Chimoney Web Platform",
