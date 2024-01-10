@@ -4,19 +4,19 @@
     "url": "https://api.chimoney.io",
     "icon": "https://icons.duckduckgo.com/ip3/api.chimoney.io.ico",
     "slug": "chimoney-api-v2",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 316,
-    "timeDay": 442,
-    "timeWeek": 316,
-    "timeMonth": 316,
-    "timeYear": 316,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 321,
+    "timeDay": 416,
+    "timeWeek": 321,
+    "timeMonth": 321,
+    "timeYear": 321,
     "dailyMinutesDown": {
-      "2024-01-10": 0
+      "2024-01-10": 7
     }
   },
   {
