@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/chimoney.io.ico",
     "slug": "chimoney-website",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 1371,
     "timeDay": 1048,
     "timeWeek": 1241,
     "timeMonth": 1042,
     "timeYear": 1371,
     "dailyMinutesDown": {
-      "2024-03-26": 2
+      "2024-03-26": 9
     }
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/live.chimoney.io.ico",
     "slug": "chimoney-api-v1",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 468,
     "timeDay": 8341,
     "timeWeek": 2289,
     "timeMonth": 819,
     "timeYear": 468,
     "dailyMinutesDown": {
-      "2024-03-26": 0
+      "2024-03-26": 8
     }
   },
   {
@@ -98,19 +98,19 @@
     "url": "https://scrim.ai",
     "icon": "https://icons.duckduckgo.com/ip3/scrim.ai.ico",
     "slug": "scrim-by-chimoney-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 308,
-    "timeDay": 493,
-    "timeWeek": 382,
-    "timeMonth": 319,
-    "timeYear": 308,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 312,
+    "timeDay": 551,
+    "timeWeek": 414,
+    "timeMonth": 331,
+    "timeYear": 312,
     "dailyMinutesDown": {
-      "2024-03-26": 0
+      "2024-03-26": 7
     }
   },
   {
