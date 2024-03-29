@@ -1,7 +1,7 @@
 url: https://chimoney.io
-status: up
-code: 200
-responseTime: 3193
-lastUpdated: 2024-03-29T17:29:52.750Z
+status: down
+code: 500
+responseTime: 695
+lastUpdated: 2024-03-29T17:44:11.524Z
 startTime: 2024-01-05T04:59:51.025Z
 generator: Upptime <https://github.com/upptime/upptime>
