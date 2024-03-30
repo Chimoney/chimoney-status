@@ -33,7 +33,7 @@
     "time": 1353,
     "timeDay": 1356,
     "timeWeek": 1255,
-    "timeMonth": 1184,
+    "timeMonth": 1179,
     "timeYear": 1353,
     "dailyMinutesDown": {
       "2024-03-29": 205,
@@ -54,7 +54,7 @@
     "time": 358,
     "timeDay": 132,
     "timeWeek": 275,
-    "timeMonth": 479,
+    "timeMonth": 476,
     "timeYear": 358,
     "dailyMinutesDown": {}
   },
@@ -72,7 +72,7 @@
     "time": 476,
     "timeDay": 282,
     "timeWeek": 2239,
-    "timeMonth": 848,
+    "timeMonth": 835,
     "timeYear": 476,
     "dailyMinutesDown": {
       "2024-03-26": 18
@@ -92,7 +92,7 @@
     "time": 243,
     "timeDay": 166,
     "timeWeek": 198,
-    "timeMonth": 220,
+    "timeMonth": 226,
     "timeYear": 243,
     "dailyMinutesDown": {}
   },
@@ -110,7 +110,7 @@
     "time": 311,
     "timeDay": 231,
     "timeWeek": 393,
-    "timeMonth": 334,
+    "timeMonth": 333,
     "timeYear": 311,
     "dailyMinutesDown": {}
   },
@@ -121,14 +121,14 @@
     "slug": "scrim-by-chimoney-api",
     "status": "up",
     "uptime": "97.64%",
-    "uptimeDay": "48.91%",
+    "uptimeDay": "50.74%",
     "uptimeWeek": "79.27%",
-    "uptimeMonth": "93.50%",
+    "uptimeMonth": "93.41%",
     "uptimeYear": "97.64%",
     "time": 300,
     "timeDay": 259,
     "timeWeek": 267,
-    "timeMonth": 299,
+    "timeMonth": 298,
     "timeYear": 300,
     "dailyMinutesDown": {
       "2024-03-29": 720,
