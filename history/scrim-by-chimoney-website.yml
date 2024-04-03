@@ -1,7 +1,7 @@
 url: https://scrim.ai
-status: up
-code: 200
-responseTime: 762
-lastUpdated: 2024-04-03T12:35:06.653Z
+status: down
+code: 502
+responseTime: 284
+lastUpdated: 2024-04-03T13:13:17.413Z
 startTime: 2024-01-05T04:59:54.023Z
 generator: Upptime <https://github.com/upptime/upptime>
