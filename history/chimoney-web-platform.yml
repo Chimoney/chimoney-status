@@ -1,7 +1,7 @@
 url: https://dash.chimoney.io
-status: up
-code: 200
-responseTime: 353
-lastUpdated: 2024-11-13T23:05:26.209Z
+status: down
+code: 502
+responseTime: 375
+lastUpdated: 2024-11-14T07:03:34.967Z
 startTime: 2024-01-05T04:59:52.068Z
 generator: Upptime <https://github.com/upptime/upptime>
