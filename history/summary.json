@@ -82,19 +82,19 @@
     "url": "https://chimoney.app",
     "icon": "https://icons.duckduckgo.com/ip3/chimoney.app.ico",
     "slug": "chimoney-app-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 411,
-    "timeDay": 448,
-    "timeWeek": 490,
-    "timeMonth": 438,
+    "timeDay": 424,
+    "timeWeek": 478,
+    "timeMonth": 437,
     "timeYear": 411,
     "dailyMinutesDown": {
-      "2025-11-05": 0
+      "2025-11-05": 11
     }
   }
 ]
