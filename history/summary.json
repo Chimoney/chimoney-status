@@ -32,7 +32,7 @@
     "timeDay": 484,
     "timeWeek": 351,
     "timeMonth": 375,
-    "timeYear": 455,
+    "timeYear": 353,
     "dailyMinutesDown": {}
   },
   {
@@ -40,18 +40,19 @@
     "url": "https://chimoney.io",
     "icon": "https://icons.duckduckgo.com/ip3/chimoney.io.ico",
     "slug": "chimoney-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
-    "time": 1369,
+    "time": 1367,
     "timeDay": 764,
     "timeWeek": 856,
     "timeMonth": 889,
-    "timeYear": 1123,
+    "timeYear": 1113,
     "dailyMinutesDown": {
+      "2025-11-13": 0,
       "2025-11-05": 29,
       "2024-12-23": 55
     }
@@ -66,12 +67,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.89%",
+    "uptimeYear": "99.93%",
     "time": 297,
     "timeDay": 507,
     "timeWeek": 523,
     "timeMonth": 344,
-    "timeYear": 296,
+    "timeYear": 298,
     "dailyMinutesDown": {
       "2024-11-14": 271
     }
