@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 408,
-    "timeDay": 421,
-    "timeWeek": 418,
-    "timeMonth": 379,
+    "timeDay": 457,
+    "timeWeek": 417,
+    "timeMonth": 386,
     "timeYear": 408,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 405,
-    "timeDay": 484,
-    "timeWeek": 351,
-    "timeMonth": 375,
-    "timeYear": 353,
+    "time": 407,
+    "timeDay": 502,
+    "timeWeek": 366,
+    "timeMonth": 382,
+    "timeYear": 354,
     "dailyMinutesDown": {}
   },
   {
@@ -42,17 +42,16 @@
     "slug": "chimoney-website",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
     "time": 1362,
-    "timeDay": 698,
-    "timeWeek": 828,
-    "timeMonth": 882,
-    "timeYear": 1110,
+    "timeDay": 801,
+    "timeWeek": 776,
+    "timeMonth": 842,
+    "timeYear": 1098,
     "dailyMinutesDown": {
-      "2025-11-13": 5,
       "2025-11-05": 29,
       "2024-12-23": 55
     }
@@ -67,15 +66,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.93%",
-    "time": 297,
-    "timeDay": 507,
-    "timeWeek": 523,
-    "timeMonth": 344,
-    "timeYear": 298,
-    "dailyMinutesDown": {
-      "2024-11-14": 271
-    }
+    "uptimeYear": "99.95%",
+    "time": 298,
+    "timeDay": 545,
+    "timeWeek": 537,
+    "timeMonth": 355,
+    "timeYear": 296,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Chimoney App Website",
@@ -89,9 +86,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 417,
-    "timeDay": 385,
-    "timeWeek": 506,
-    "timeMonth": 456,
+    "timeDay": 392,
+    "timeWeek": 459,
+    "timeMonth": 454,
     "timeYear": 417,
     "dailyMinutesDown": {}
   }
